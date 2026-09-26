@@ -1,0 +1,4 @@
+host,upstream,auth
+jellyfin.lan,127.0.0.1:8096,none
+ha.lan,127.0.0.1:8123,authelia
+files.lan,127.0.0.1:8080,authelia
